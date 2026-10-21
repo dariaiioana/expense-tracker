@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Your personal data (don't upload your real expenses)
+expenses.csv
+sample_expenses.csv
+charts/
+
+# Editors / OS
+.vscode/
+.DS_Store
